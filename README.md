@@ -62,10 +62,8 @@ I have professional experience optimizing backend performance by **25%** and bui
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
+[![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/S-D-Keerthiga-Devi)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/S-D-Keerthiga-Devi)
 
 ---
 
