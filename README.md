@@ -1,68 +1,77 @@
-## Hi there 👋 I'm S D Keerthiga Devi
+# Hi there, I'm S D Keerthiga Devi 👋
 
-Welcome to my GitHub profile! I'm a passionate and curious Computer Science undergrad who loves building impactful tech solutions, especially in the fields of Machine Learning, Web Development, and Open Source.
+### 🚀 Full Stack Developer | MERN Stack & Next.js | Open Source Enthusiast
+
+Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a passionate developer focused on building scalable, high-performance web applications.
+
+I have professional experience optimizing backend performance by **25%** and building secure cloud platforms. I love bridging the gap between complex backend logic and responsive, user-centric frontend designs.
 
 ---
 
-### 🚀 About Me
+### 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE student  
-- 🔭 Currently contributing to **GSSoC'25**, working on open-source projects 
-- 🤖 Actively exploring **AI/ML**, particularly real-world applications using **scikit-learn**, **pandas**, and **deep learning**
-- 🌐 MERN stack developer, building scalable web applications with React, Node.js, Express, and MongoDB
-- 🧠 Independent researcher with a focus on hybrid deep reinforcement learning models for combinatorial optimization problems  
-- 💡 I'm passionate about solving real-world problems through coding, gaining insights from data, and building solutions that are helpful to others.  
-- 🧪 Experienced in using Machine Learning tools and libraries to develop intelligent systems and data-driven applications.
+- 🎓 **Current Status:** Final Year Student & Open to **Full-Time SDE Roles**.
+- 💼 **Experience:**
+  - Ex-Full Stack Developer Intern at **Codec Technologies** (MERN Stack).
+  - Ex-React Developer Intern at **The Entrepreneurship Network**.
+- 🤝 **Community:** Open Source Contributor at **GSSoC'25** & Vice Chairman of ACM Student Chapter.
+- 🏆 **Achievements:** Finalist at **SRM BUILDS 6.0** Hackathon.
+- 💡 **Interests:** Scalable Architecture, System Design, and Generative AI Integration.
+
+---
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Frontend Development**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-49AFA2?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+**Languages & AI**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### 🌱 Currently Learning
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-- Advanced Data Structures & Algorithms  
-- Practical Applications of Artificial Intelligence  
-- Scalable Full Stack Development Strategies (MERN & beyond)
+---
 
-### 👯 I’m Looking to Collaborate On
+### 🌟 Featured Projects
 
-- Open-source projects involving the MERN stack and AI/ML  
-- Innovative and impactful development ideas, especially those addressing real-world challenges
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Clipsify** | A full-stack media management platform with secure uploads, OAuth, and dashboard analytics. | Next.js, TypeScript, MongoDB, ImageKit |
+| **Learnify** | An interactive e-learning platform with course tracking and secure student authentication. | React, Node.js, Express, MongoDB, Clerk |
+| **AI Blog Generator** | An automated content generation tool leveraging the Google Gemini API for SEO-friendly blogs. | MERN Stack, Gemini API |
 
-### 💬 Ask Me About
+---
 
-- Getting started with open-source and GitHub  
-- Building AI-driven web apps  
-- Python, React, or Machine Learning project  
+### 📊 GitHub Stats
 
-### 📫 How to Reach Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+</div>
 
-- 📧 Email: keertix04@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/s-d-keerthiga-devi-5262bb27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🧑‍💻 [Portfolio Website](https://keerthiga.netlify.app)  
-- 💻 [LeetCode](https://leetcode.com/u/keerthiga_devi/)
+---
 
+### 📫 Let's Connect!
 
-### ⚡ Fun Fact
-
-I enjoy breaking down complex tech topics into easy-to-understand content and always look for creative ways to make learning more enjoyable. ✨
-
-
-Thanks for visiting! ⭐️ Don't forget to check out some of my pinned repositories!
-
+- 📧 **Email:** [keertix04@gmail.com](mailto:keertix04@gmail.com)
+- 💼 **LinkedIn:** [S D Keerthiga Devi](https://www.linkedin.com/in/s-d-keerthiga-devi-5262bb27b)
+- 🌐 **Portfolio:** [keerthiga-dev.vercel.app](https://keerthiga-dev.vercel.app/)
+- 💻 **LeetCode:** [keerthiga_devi](https://leetcode.com/u/keerthiga_devi/)
