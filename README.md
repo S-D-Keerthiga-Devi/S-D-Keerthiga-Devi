@@ -41,22 +41,17 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 
 #### 🌟 Featured Projects
 
-* <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor"><b>Code Mentor</b></a>
-  <br/> A collaborative code environment featuring real-time AI dependency detection to streamline workflows.
-  <br/> *Tech: MERN Stack, AI Integration*
-  <br/> <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true&v=1" alt="Code Mentor Repo Card" width="400"/></a>
-  <br/>
-
-* <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify"><b>Clipsify</b></a>
-  <br/> A full-stack media management platform designed for secure uploads and optimized storage routing via ImageKit.
-  <br/> *Tech: Next.js, TypeScript, MongoDB, ImageKit*
-  <br/> <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true&v=1" alt="Clipsify Repo Card" width="400"/></a>
-  <br/>
-
-* <a href="https://github.com/S-D-Keerthiga-Devi/Learnify"><b>Learnify</b></a>
-  <br/> An interactive e-learning platform architecture with comprehensive course tracking capabilities.
-  <br/> *Tech: React, Node.js, Express, MongoDB, Clerk*
-  <br/> <a href="https://github.com/S-D-Keerthiga-Devi/Learnify"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true&v=1" alt="Learnify Repo Card" width="400"/></a>
+<div align="center">
+  <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true&v=1" alt="Code Mentor Repo Card" width="400"/>
+  </a>
+  <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true&v=1" alt="Clipsify Repo Card" width="400"/>
+  </a>
+  <a href="https://github.com/S-D-Keerthiga-Devi/Learnify">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true&v=1" alt="Learnify Repo Card" width="400"/>
+  </a>
+</div>
 
 ---
 
