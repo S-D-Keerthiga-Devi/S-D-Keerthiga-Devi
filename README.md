@@ -42,13 +42,19 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Clipsify** | A full-stack media management platform with secure uploads, OAuth, and dashboard analytics. | Next.js, TypeScript, MongoDB, ImageKit |
-| **Learnify** | An interactive e-learning platform with course tracking and secure student authentication. | React, Node.js, Express, MongoDB, Clerk |
-| **AI Blog Generator** | An automated content generation tool leveraging the Google Gemini API for SEO-friendly blogs. | MERN Stack, Gemini API |
+#### 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=tokyonight&hide_border=true" alt="Code Mentor Repo Card" />
+  </a>
+  <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=tokyonight&hide_border=true" alt="Clipsify Repo Card" />
+  </a>
+  <a href="https://github.com/S-D-Keerthiga-Devi/Learnify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=tokyonight&hide_border=true" alt="Learnify Repo Card" />
+  </a>
+  
+</div>
 
 ---
 
@@ -79,16 +85,10 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 
 <br/>
 
-#### ⏱️ Weekly Coding Activity
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 May 2026 - To: 19 May 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+#### 💡 Dev Wisdom
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
 ---
 
