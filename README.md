@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=S-D-Keerthiga-Devi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=S-D-Keerthiga-Devi&theme=light&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -45,13 +45,13 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 #### 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=tokyonight&hide_border=true" alt="Code Mentor Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true" alt="Code Mentor Repo Card" />
   </a>
   <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=tokyonight&hide_border=true" alt="Clipsify Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true" alt="Clipsify Repo Card" />
   </a>
   <a href="https://github.com/S-D-Keerthiga-Devi/Learnify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=tokyonight&hide_border=true" alt="Learnify Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true" alt="Learnify Repo Card" />
   </a>
 </div>
 
@@ -60,8 +60,8 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=light&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=light&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
 <br/>
@@ -79,14 +79,14 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 
 #### 🧊 3D Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/S-D-Keerthiga-Devi/S-D-Keerthiga-Devi/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" />
+  <img src="https://raw.githubusercontent.com/S-D-Keerthiga-Devi/S-D-Keerthiga-Devi/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Commits" />
 </div>
 
 <br/>
 
 #### 💡 Dev Wisdom
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
 </div>
 
 ---
