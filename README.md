@@ -17,9 +17,6 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 ### 👩‍💻 About Me
 
 - 🎓 **Current Status:** Final Year Student & Open to **Full-Time SDE Roles**.
-- 💼 **Experience:**
-  - Ex-Full Stack Developer Intern at **Codec Technologies** (MERN Stack).
-  - Ex-React Developer Intern at **The Entrepreneurship Network**.
 - 🤝 **Community:** Open Source Contributor at **GSSoC'25** & Vice Chairman of ACM Student Chapter.
 - 🏆 **Achievements:** Finalist at **SRM BUILDS 6.0** Hackathon.
 - 💡 **Interests:** Scalable Architecture, System Design, and Generative AI Integration.
@@ -43,17 +40,12 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 ---
 
 #### 🌟 Featured Projects
-<div align="center">
-  <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true" alt="Code Mentor Repo Card" />
-  </a>
-  <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true" alt="Clipsify Repo Card" />
-  </a>
-  <a href="https://github.com/S-D-Keerthiga-Devi/Learnify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true" alt="Learnify Repo Card" />
-  </a>
-</div>
+
+| Repository Stats | Project Details |
+| :--- | :--- |
+| <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true" alt="Code Mentor Repo Card" width="350"/></a> | **Code Mentor** <br/> A collaborative code environment built with the MERN stack, featuring real-time AI dependency detection to streamline developer workflows and problem-solving. <br/> *Tech: MERN Stack, AI Integration* |
+| <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true" alt="Clipsify Repo Card" width="350"/></a> | **Clipsify** <br/> A full-stack media management platform designed for secure uploads, optimized storage routing via ImageKit, and detailed dashboard analytics. <br/> *Tech: Next.js, TypeScript, MongoDB, ImageKit* |
+| <a href="https://github.com/S-D-Keerthiga-Devi/Learnify"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true" alt="Learnify Repo Card" width="350"/></a> | **Learnify** <br/> An interactive e-learning platform architecture with comprehensive course tracking capabilities and secure student authentication workflows. <br/> *Tech: React, Node.js, Express, MongoDB, Clerk* |
 
 ---
 
