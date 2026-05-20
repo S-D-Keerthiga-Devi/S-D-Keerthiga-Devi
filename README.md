@@ -45,15 +45,14 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 #### 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=tokyonight&hide_border=true" alt="Code Mentor Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=tokyonight&hide_border=true" alt="Code Mentor Repo Card" />
   </a>
   <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=tokyonight&hide_border=true" alt="Clipsify Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=tokyonight&hide_border=true" alt="Clipsify Repo Card" />
   </a>
   <a href="https://github.com/S-D-Keerthiga-Devi/Learnify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=tokyonight&hide_border=true" alt="Learnify Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=tokyonight&hide_border=true" alt="Learnify Repo Card" />
   </a>
-  
 </div>
 
 ---
