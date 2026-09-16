@@ -2,7 +2,7 @@
   
 # Hi there, I'm S D Keerthiga Devi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+%26+Next.js;Open+Source+Enthusiast;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+%26+Next.js;Open+Source+Enthusiast;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a passionate developer focused on building scalable, high-performance web applications. I love bridging the gap between complex backend logic and responsive, user-centric frontend designs.
 
@@ -43,13 +43,13 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 
 <div align="center">
   <a href="https://github.com/S-D-Keerthiga-Devi/Code-Mentor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true&v=1" alt="Code Mentor Repo Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Code-Mentor&theme=light&hide_border=true&v=1" alt="Code Mentor Repo Card" width="400"/>
   </a>
   <a href="https://github.com/S-D-Keerthiga-Devi/Clipsify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true&v=1" alt="Clipsify Repo Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Clipsify&theme=light&hide_border=true&v=1" alt="Clipsify Repo Card" width="400"/>
   </a>
   <a href="https://github.com/S-D-Keerthiga-Devi/Learnify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true&v=1" alt="Learnify Repo Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-D-Keerthiga-Devi&repo=Learnify&theme=light&hide_border=true&v=1" alt="Learnify Repo Card" width="400"/>
   </a>
 </div>
 
@@ -58,8 +58,8 @@ Welcome to my GitHub! I am a final-year **B.Tech CSE (AI/ML)** student and a pas
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=light&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=light&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-D-Keerthiga-Devi&show_icons=true&theme=light&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-D-Keerthiga-Devi&layout=compact&theme=light&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
 <br/>
